@@ -4,7 +4,7 @@ import urllib
 import re
 import _thread
 import time
-
+   
 
 #糗事百科爬虫类
 class QSBK:
